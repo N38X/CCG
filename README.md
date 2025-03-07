@@ -7,7 +7,7 @@ CustomCaves Ark is a handy tool for ARK: Survival Evolved that makes creating an
 - **Save Path Option** – Choose a save location for your data
 - **Generates Mannequin Commands** – Automatically create spawn commands for mannequins
 
-[Download](https://github.com/n38x/REPO_NAME/raw/main/release/yourFile.exe)
+[Download](https://github.com/n38x/CCG/raw/main/release/NX - CCG.exe)
 
 
 ## Open Source & Community
