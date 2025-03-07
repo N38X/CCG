@@ -16,7 +16,7 @@
 
 Get the latest version of the CustomCaves App here:
 
-[Download NX - CCG.exe](https://github.com/n38x/CCG/raw/main/release/NX%20-%20CCG.exe)
+[Download NX - CCG](https://github.com/n38x/CCG/raw/main/release/NX%20-%20CCG.exe)
 
 ---
 
