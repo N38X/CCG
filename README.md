@@ -1,18 +1,33 @@
-# CustomCaves App | ARK: Survival Evolved 
+# CustomCaves App | ARK: Survival Evolved
 
-CustomCaves Ark is a handy tool for ARK: Survival Evolved that makes creating and managing cave layouts easier.
+**CustomCaves Ark** is a powerful and user-friendly tool for ARK: Survival Evolved, designed to simplify the process of creating and managing custom cave layouts.
 
-## Features
-- **Copy/Clear/Save Options** – Easily save, delete, or copy your cave data
-- **Save Path Option** – Choose a save location for your data
-- **Generates Mannequin Commands** – Automatically create spawn commands for mannequins
+---
 
-[Download](https://github.com/n38x/CCG/raw/main/release/NX%20-%20CCG.exe)
+## 🌟 Features
 
-## Open Source & Community
-This project is **Open Source** and was developed with the help of ChatGPT. If you have any questions or need support, join our Discord server:
+- **Copy / Clear / Save Options** – Easily save, delete, or copy your cave data.
+- **Save Path Option** – Choose where to save your cave data.
+- **Generates Mannequin Commands** – Automatically create spawn commands for mannequins.
 
-🔗 **[Join our Discord](https://discord.gg/RtEYex2vmu)**
+---
 
-Enjoy building your custom caves! 🚀
+## 📥 Download
 
+Get the latest version of the CustomCaves App here:
+
+[Download NX - CCG.exe](https://github.com/n38x/CCG/raw/main/release/NX%20-%20CCG.exe)
+
+---
+
+## 🌍 Open Source & Community
+
+This project is **Open Source** and was developed with the help of **ChatGPT**. We welcome contributions and feedback from the community!
+
+If you need help or want to join the conversation, feel free to join our Discord server:
+
+🔗 [**Join our Discord**](https://discord.gg/RtEYex2vmu)
+
+---
+
+## 🚀 Enjoy building your custom caves!
